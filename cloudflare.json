@@ -32,5 +32,5 @@
     ],
     "main": "./public/javascripts/test.js",
     "name": "AAA Test App",
-    "version": "9.0.3"
+    "version": "9.0.4"
 }
