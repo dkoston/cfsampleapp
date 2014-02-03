@@ -6,31 +6,31 @@
                 "132px": "./public/images/logo-132.png",
                 "200px": "./public/images/logo-200.png"
             }
-        }, 
+        },
         "details": {
             "Language": "English",
-            "Price": "Free", 
+            "Price": "Free",
             "Restrictions": "None",
             "has_js": true
-        }, 
+        },
         "interface": [
         ]
-    }, 
+    },
     "contributors": [
         {
-            "email": "dkoston@cloudflare.com", 
+            "email": "dkoston@cloudflare.com",
             "name": "Dave Koston"
         }
-    ], 
-    "dependencies": {}, 
-    "description": "Sample application used for testing the apps pipeline.", 
+    ],
+    "dependencies": {},
+    "description": "Sample application used for testing the apps pipeline.",
     "licenses": [
         {
-            "type": "MIT", 
+            "type": "MIT",
             "url": "http://www.opensource.org/licenses/MIT"
         }
-    ], 
-    "main": "./public/javascripts/test.js", 
-    "name": "AAA Test App", 
+    ],
+    "main": "./public/javascripts/test.js",
+    "name": "AAA Test App",
     "version": "9.0.3"
 }
