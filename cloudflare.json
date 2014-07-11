@@ -20,7 +20,7 @@
         {
             "email": "dkoston@cloudflare.com",
             "name": "Dave Koston"
-        },
+        }
     ],
     "dependencies": {},
     "description": "Sample application used for testing the apps pipeline.",
